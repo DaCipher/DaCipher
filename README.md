@@ -1,25 +1,25 @@
 # Goodnews Igbede
 
-**Laravel developer who also deploys, secures and maintains the servers your app runs on.**
+**Laravel developer who also deploys, secures, and maintains the servers your app runs on.**
 
-I build Laravel applications and REST APIs, then take them all the way to production: server setup, SSL, CI/CD, backups, monitoring and hardening. You work with one person instead of a developer, a sysadmin and a security engineer.
+I build Laravel applications and REST APIs, then take them all the way to production: server setup, SSL, CI/CD, backups, monitoring, and hardening. You work with one person instead of a developer, a sysadmin, and a security engineer.
 
-Before freelancing full-time I spent 4+ years in IT infrastructure and network security, managing 50+ production servers, enterprise firewalls and VPN for 200+ users. That background shows up in the code I write.
+Before freelancing full-time, I spent 4+ years in IT infrastructure and network security, managing 50+ production servers, enterprise firewalls, and VPN for 200+ users. That background shows up in the code I write.
 
-📍 Asaba, Nigeria (UTC+1) · Works across UK/EU hours and US mornings
+📍 I'm available for work across UK/EU hours and US mornings
 
 ---
 
 ## What I can help you with
 
 **Laravel & PHP development**
-- New apps, features and REST APIs (Sanctum/Passport auth)
+- New apps, features, and REST APIs (Sanctum/Passport auth)
 - Filament admin panels and internal dashboards
-- Bug fixes, refactors and Laravel version upgrades
+- Bug fixes, refactors, and Laravel version upgrades
 - PostgreSQL / MySQL schema design and query tuning
 
 **Deployment & DevOps**
-- Linux VPS setup with Nginx/Apache, PHP-FPM, queues and schedulers
+- Linux VPS setup with Nginx/Apache, PHP-FPM, queues, and schedulers
 - CI/CD with GitHub Actions: tested, repeatable deployments
 - Automated backups with tested restores
 - Moves from shared hosting to a VPS, without downtime
@@ -27,7 +27,7 @@ Before freelancing full-time I spent 4+ years in IT infrastructure and network s
 **Security & networking**
 - Server hardening: SSH keys, firewalls, Fail2ban, least-privilege access
 - Security monitoring with Wazuh
-- FortiGate, Sophos and Cisco firewall configuration and audits
+- FortiGate, Sophos, and Cisco firewall configuration and audits
 - Site-to-site and remote-access VPN
 
 ---
@@ -37,7 +37,7 @@ Before freelancing full-time I spent 4+ years in IT infrastructure and network s
 - **Your code, your repo.** Everything lives in your Git repository with clear commits from day one.
 - **Plain-English updates.** You'll know what was done, why, and what's next, without the jargon.
 - **Handover notes.** Every project ends with documentation, so any developer can take over. You're never locked in to me.
-- **Security by default.** Validation, authorization, CSRF/XSS protection and safe config aren't extras.
+- **Security by default.** Validation, authorization, CSRF/XSS protection, and safe config aren't extras.
 - **Honest estimates.** If something will take longer or cost more than expected, you hear it from me early.
 
 ---
